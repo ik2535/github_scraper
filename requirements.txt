@@ -1,0 +1,6 @@
+requests
+pytest
+transformers
+torch
+sentence-transformers
+python-dotenv
